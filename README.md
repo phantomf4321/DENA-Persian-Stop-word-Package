@@ -4,6 +4,9 @@ Last Updated: August 18, 2026
 
 Empowering researchers and developers with a standard, accessible Persian stopword resource.
 
+![Persian Stopword API for Natural Language Processing](assets/dena.webp "Persian Stopword API for Natural Language Processing")
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
