@@ -100,6 +100,8 @@ DENA is the name of a Persian stopword package, inspired by Mount Dena in Iran. 
 
 The goal of DENA is to create a usable resource for NLP researchers and developers, enabling them to easily and standardly access a Persian stopword list. Instead of forcing researchers to manually manage a stopword file in each project, DENA provides the ability to retrieve this list through an API.
 
+![Persian Stopword API for Natural Language Processing](assets/Dena flo.png "Persian Stopword API for Natural Language Processing")
+
 ## DENA Architecture
 
 The architecture of the DENA service is designed to be very simple. In general, a researcher receives a unique token and, by sending that token to the API, receives the stopword list.
