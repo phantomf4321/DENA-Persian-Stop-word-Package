@@ -1,4 +1,4 @@
-Last Updated: August 17, 2026
+Last Updated: August 18, 2026
 
 ## DENA – Persian Stopword API for Natural Language Processing
 
